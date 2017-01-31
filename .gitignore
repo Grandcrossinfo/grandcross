@@ -1,14 +1,28 @@
-# Build and Release Folders
-bin/
-bin-debug/
-bin-release/
-[Oo]bj/ # FlashDevelop obj
-[Bb]in/ # FlashDevelop bin
+$ git config user.name "Nobuyoshi Kurosawa"
+$ git config user.email grandcross@grandcross.red
 
-# Other files and folders
-.settings/
+# Build and Release first file of script
+$ git init
+$ git add "https://www.grand-cross.com/198229/amiplus1.js #javascript file for audio"
+$ git add -m "audio src is trance in addEventListener is create function"
+ 
 
-# Executables
+# second file
+$ git init
+$ git add "https://www.grand-cross.com/198229/audio1.js #javascript file for audio"
+$ git add -m "the touch event is done and bring for load event"
+
+# third file
+$ git init
+$ git add "https://www.grand-cross.com/198229/audio2.js #javascript file for audio"
+$ git add -m "the touch event is done too"
+
+# 4th file
+$ git init
+$ git add "https://www.grand-cross.com/198229/audio3.js #javascript file for audio"
+$ git add -m "the touch event is done too"
+
+# Executwww.grand-cross.com/wwables
 *.swf
 *.air
 *.ipa
@@ -16,4 +30,4 @@ bin-release/
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# information for Eclipse / Flash Buildeaddr.
