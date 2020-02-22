@@ -3,32 +3,32 @@ $ git config user.email grandcross@grandcross.red
 
 # Build and Release first file of script
 $ git init
-$ git add "https://www.grand-cross.com/198229/amiplus1.js" #javascript file for audio
+$ git add "https://www.grand-cross.com/amiplus1.js" #javascript file for audio
 $ git add -m "audio src is trance in addEventListener is create function"
  
 # second file
 $ git init
-$ git add "https://www.grand-cross.com/198229/audio1.js" #javascript file for audio
+$ git add "https://www.grand-cross.com/audio1.js" #javascript file for audio
 $ git add -m "the first touch event is done and bring for load event"
 
 # third file
 $ git init
-$ git add "https://www.grand-cross.com/198229/audio2.js" #javascript file for audio
+$ git add "https://www.grand-cross.com/audio2.js" #javascript file for audio
 $ git add -m "the second touch event is done too"
 
 # 4th file
 $ git init
-$ git add "https://www.grand-cross.com/198229/audio3.js" #javascript file for audio
+$ git add "https://www.grand-cross.com/audio3.js" #javascript file for audio
 $ git add -m "the third touch event is done too"
 
 # 5th file
 $ git init
-$ git add "https;//www.grand-cross.com/198229/audio4.js" #javascript file for audio
+$ git add "https;//www.grand-cross.com/audio4.js" #javascript file for audio
 $ git add -m "the 4th touch event is done"
 
 # 6th file
 $ git init
-$ git add "https://www.grand-cross.com/198229/audio5.js" #javascript file for audio
+$ git add "https://www.grand-cross.com/audio5.js" #javascript file for audio
 
 # Executwww.grand-cross.com/wwables
 *.js
