@@ -3,32 +3,32 @@ $ git config user.email grandcross@grandcross.red
 
 # Build and Release first file of script
 $ git init
-$ git add "https://www.grand-cross.com/amiplus1.js" #javascript file for audio
-$ git add -m "audio src is trance in addEventListener is create function"
+$ git add "https://www.grand-cross.com/index.html" #html5 file for view
+$ git add -m "musician Grandcross official alternative website top page"
  
 # second file
 $ git init
-$ git add "https://www.grand-cross.com/audio1.js" #javascript file for audio
-$ git add -m "the first touch event is done and bring for load event"
+$ git add "https://www.grand-cross.com/apple.html" #html5 file for apple affiliate page that is on it.
+$ git add -m "Grandcross affiliate psge is powerd from apple music why he is member of affiliate programs at individual."
 
 # third file
 $ git init
-$ git add "https://www.grand-cross.com/audio2.js" #javascript file for audio
-$ git add -m "the second touch event is done too"
+$ git add "https://www.grand-cross.com/tatoe.html" #html5 file for audio listening
+$ git add -m "Grandcross the album of However I love you, Love Metal and Love Ballad can listens as trial of limit 90sec."
 
 # 4th file
 $ git init
-$ git add "https://www.grand-cross.com/audio3.js" #javascript file for audio
-$ git add -m "the third touch event is done too"
+$ git add "https://www.grand-cross.com/video.html" #html5 file for music videos
+$ git add -m "This page is send for video stream page is written by Nobuyoshi Kurosawa"
 
 # 5th file
 $ git init
-$ git add "https;//www.grand-cross.com/audio4.js" #javascript file for audio
-$ git add -m "the 4th touch event is done"
+$ git add "https;//www.grand-cross.com/2018.html" #html5 file for diary of Grandcross.
+$ git add -m "This page is for reading essays of diary."
 
 # 6th file
 $ git init
-$ git add "https://www.grand-cross.com/audio5.js" #javascript file for audio
+$ git add "https://www.grand-cross.com/Diary_2018.html" #html5 file for diary of Grandcross too.
 
 # Executwww.grand-cross.com/wwables
 *.js
